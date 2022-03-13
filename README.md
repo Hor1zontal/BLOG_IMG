@@ -1,1 +1,1 @@
-# BLOG_IMG
+# BLOG_IMGS
